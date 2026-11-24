@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KasirKu UMKM</string>
+    <string name="tagline_app">Kasir Pintar Toko &amp; Warung</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_cashier">Kasir</string>
+    <string name="nav_products">Produk</string>
+    <string name="nav_debt">Kasbon</string>
+    <string name="nav_expense">Pengeluaran</string>
+    <string name="nav_report">Laporan</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Home -->
+    <string name="greeting_morning">Selamat Pagi,</string>
+    <string name="greeting_afternoon">Selamat Siang,</string>
+    <string name="greeting_evening">Selamat Sore,</string>
+    <string name="greeting_night">Selamat Malam,</string>
+    <string name="summary_sales_today">Penjualan Hari Ini</string>
+    <string name="summary_profit_today">Laba Hari Ini</string>
+    <string name="summary_transactions">Jumlah Transaksi</string>
+    <string name="summary_cash_total">Total Kas</string>
+    <string name="sales_chart_title">Penjualan 7 Hari Terakhir</string>
+    <string name="best_sellers_title">Produk Terlaris</string>
+    <string name="low_stock_warning">Peringatan Stok Menipis</string>
+    <string name="btn_start_selling">Mulai Jualan</string>
+
+    <!-- Cashier -->
+    <string name="search_product_hint">Cari produk / scan barcode...</string>
+    <string name="all_categories">Semua</string>
+    <string name="cart_title">Keranjang Belanja</string>
+    <string name="cart_empty">Keranjang masih kosong</string>
+    <string name="cart_empty_sub">Ketuk produk untuk menambahkan ke keranjang</string>
+    <string name="total_payment">Total Bayar</string>
+    <string name="quick_money">Uang Cepat</string>
+    <string name="exact_money">Uang Pas</string>
+    <string name="payment_method">Metode Pembayaran</string>
+    <string name="pay_cash">Tunai</string>
+    <string name="pay_qris">QRIS (Manual)</string>
+    <string name="pay_transfer">Transfer</string>
+    <string name="pay_debt">Kasbon / Utang</string>
+    <string name="select_customer">Pilih Pelanggan</string>
+    <string name="amount_paid">Jumlah Uang Diterima</string>
+    <string name="change_amount">Kembalian</string>
+    <string name="btn_pay_now">Bayar Sekarang</string>
+
+    <!-- Products -->
+    <string name="product_list_title">Kelola Produk</string>
+    <string name="add_product">Tambah Produk</string>
+    <string name="edit_product">Edit Produk</string>
+    <string name="product_name">Nama Produk</string>
+    <string name="category">Kategori</string>
+    <string name="buy_price">Harga Beli (Modal)</string>
+    <string name="sell_price">Harga Jual</string>
+    <string name="stock">Stok</string>
+    <string name="min_stock">Stok Minimal</string>
+    <string name="unit">Satuan</string>
+    <string name="barcode">Barcode / Kode</string>
+    <string name="btn_scan">Scan</string>
+    <string name="restock">Tambah Stok</string>
+    <string name="undo">Batal</string>
+    <string name="item_deleted">Item berhasil dihapus</string>
+
+    <!-- Debt -->
+    <string name="debt_title">Kasbon Pelanggan</string>
+    <string name="add_customer">Tambah Pelanggan</string>
+
+    <!-- Shared / General -->
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="success">Berhasil</string>
+    <string name="error">Terjadi Kesalahan</string>
+</resources>

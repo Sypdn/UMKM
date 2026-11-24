@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Dark Application Theme -->
+    <style name="Base.Theme.UMKM" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/orange_primary</item>
+        <item name="colorPrimaryVariant">@color/orange_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/emerald_secondary</item>
+        <item name="colorSecondaryVariant">@color/emerald_secondary_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:statusBarColor">#0F172A</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#0F172A</item>
+        <item name="android:navigationBarColor">#1E293B</item>
+
+        <item name="materialCardViewStyle">@style/Widget.UMKM.CardView</item>
+    </style>
+
+    <style name="Theme.UMKM" parent="Base.Theme.UMKM" />
+
+    <style name="Widget.UMKM.CardView" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">20dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/border_dark</item>
+        <item name="cardBackgroundColor">@color/surface_dark</item>
+    </style>
+</resources>

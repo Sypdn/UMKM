@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary Colors -->
+    <color name="orange_primary">#F26522</color>
+    <color name="orange_primary_dark">#D94E0C</color>
+    <color name="orange_primary_container">#3D1E10</color>
+
+    <color name="emerald_secondary">#10B981</color>
+    <color name="emerald_secondary_dark">#059669</color>
+    <color name="emerald_secondary_container">#064E3B</color>
+
+    <color name="blue_accent">#3B82F6</color>
+    <color name="blue_accent_container">#1E3A8A</color>
+
+    <!-- Dark Mode Backgrounds & Surfaces (Slate Palette) -->
+    <color name="bg_light">#0F172A</color>
+    <color name="bg_dark">#0F172A</color>
+
+    <color name="surface_light">#1E293B</color>
+    <color name="surface_dark">#1E293B</color>
+    <color name="surface_variant">#334155</color>
+    <color name="border_light">#334155</color>
+    <color name="border_dark">#334155</color>
+
+    <!-- High Contrast Typography -->
+    <color name="text_primary_light">#F8FAFC</color>
+    <color name="text_secondary_light">#94A3B8</color>
+    <color name="text_tertiary">#64748B</color>
+
+    <color name="text_primary_dark">#F8FAFC</color>
+    <color name="text_secondary_dark">#94A3B8</color>
+
+    <!-- Status & Badges -->
+    <color name="status_danger">#EF4444</color>
+    <color name="status_danger_container">#451A1A</color>
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_warning_container">#45300A</color>
+    <color name="status_info">#3B82F6</color>
+    <color name="status_info_container">#1E3A8A</color>
+
+    <!-- Navigation Colors -->
+    <color name="nav_bg">#1E293B</color>
+    <color name="nav_active_indicator">#F26522</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="glass_stroke">#33FFFFFF</color>
+    <color name="glass_card_bg">#CC1E293B</color>
+    <color name="glass_card_bg_dark">#CC1E293B</color>
+</resources>
