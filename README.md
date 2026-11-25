@@ -64,3 +64,8 @@
 2. Buka Android Studio (versi Jellyfish / Ladybug / 2026+).
 3. Pilih **Open** dan pilih folder proyek `UMKM`.
 4. Tunggu proses Gradle Sync selesai, lalu jalankan aplikasi di Emulator atau Perangkat Android (min. Android 10).
+
+## 📷 Hak Cipta & Lisensi
+
+Dibuat khusus untuk UMKM **UNTUK MEMBANTU UMKM**.
+© 2026  Sypdn (Syaepuddin). Hak Cipta Dilindungi Undang-Undang.
